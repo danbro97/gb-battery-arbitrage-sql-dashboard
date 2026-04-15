@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+data_raw/
+data_processed/
+db/*.duckdb
